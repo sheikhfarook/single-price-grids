@@ -11,13 +11,13 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Cyan: hsl(179, 62%, 43%)
-- Bright Yellow: hsl(71, 73%, 54%)
+- Cyan: hsl(179, 62%, 43%) #2AB2AF
+- Bright Yellow: hsl(71, 73%, 54%) #C0DF34
 
 ### Neutral
 
-- Light Gray: hsl(204, 43%, 93%)
-- Grayish Blue: hsl(218, 22%, 67%)
+- Light Gray: hsl(204, 43%, 93%) #E5EFF5
+- Grayish Blue: hsl(218, 22%, 67%) #98A6BD
 
 ## Typography
 
